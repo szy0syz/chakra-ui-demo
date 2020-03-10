@@ -4,7 +4,7 @@ import {
 	CSSReset,
 	ColorModeProvider,
 } from '@chakra-ui/core';
-// import Navbar from '../components/Navbar';
+import Navbar from '../components/Navbar';
 
 function MyApp({ Component, pageProps }) {
 	return (
@@ -12,7 +12,7 @@ function MyApp({ Component, pageProps }) {
 			<ColorModeProvider>
 				<Flex direction='column' align='center' justify='center'>
 					<CSSReset />
-					{/* <Navbar /> */}
+					<Navbar />
 					<Flex justify='center' align='center' w='100%' h='93vh'>
 						<Component {...pageProps} />
 					</Flex>
