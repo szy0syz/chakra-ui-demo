@@ -2,12 +2,19 @@
 
 ![preview](./preview.gif)
 
+> Chakra UI is a simple, modular and accessible component library that gives you all the building blocks you need to build your React applications.
+>
+> Learn more about Chakr-UI [@www.chakra-ui.com](www.chakra-ui.com)
+
 ## Why is Chakra-UI special
 
 - Based on Styled-systems! 👍
-- Strongly typed components: Cleaner codebase! Rarely use CSS prop! 🤞
-- Supports the use of themes out of the box!
+- Strongly typed components: Cleaner codebase! Rarely use CSS prop! 🤘
+- Supports the use of themes out of the box! 😘
 - Supports Dark mode out of the box! 🌗
+- Tons of very useful components! 🚀
+- Makes responsive design a breeze! 😇
+- Exremely organizied documenttion! 😍
 
 ## Steps
 
