@@ -2,7 +2,7 @@
 
 ## Detail
 
-### Why is Chakra-UI special ?
+### Why is Chakra-UI special
 
 - Based on Styled-systems! 👍
 - Strongly typed components: Cleaner codebase! Rarely use CSS prop! 🤞
