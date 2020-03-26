@@ -26,3 +26,5 @@ yarn-error.log*
 
 # msic
 .env.local
+
+.now

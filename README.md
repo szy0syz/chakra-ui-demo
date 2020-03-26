@@ -1,5 +1,6 @@
 # chakra-ui demo
 
+Preview: [https://chakra.yna.app/](https://chakra.yna.app/)
 ![preview](./preview.gif)
 
 > Chakra UI is a simple, modular and accessible component library that gives you all the building blocks you need to build your React applications.
